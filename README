@@ -1,0 +1,11 @@
+Kyle Lai Thom
+
+1.
+Open code folder (you can copy and paste all the .py files in the code folder into the testing ressources folder)
+
+2. for other tests:
+Run the crawl, you can call crawl(seed) in crawler.py -> the seed is the url you want to crawl.
+
+3. (can only run after crawl has been run)
+You can call any functions in the searchdata.py -> ex. get get_outgoing_links(URL)
+You can call search(phrase, boost) in search.py
